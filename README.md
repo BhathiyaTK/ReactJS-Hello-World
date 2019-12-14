@@ -1,1 +1,1 @@
-## Simple Hello-World app with React.js
+## Simple Hello-World app using React.js
